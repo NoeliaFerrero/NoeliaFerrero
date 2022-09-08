@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NoeliaFerrero
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Power BI y otras herramientas de ML
-- 💞️ I’m looking to collaborate on proyectos donde pueda crecer profesionalmente
-- 📫 How to reach me noeliafc40@gmail.com
+- 👋 Hola, soy @NoeliaFerrero
+- 👀 Me interesada trabajar en Data Science
+- 🌱 Actualmente estoy aprendiendo Python, Power BI y librerias especificas para trabajar con ML
+- 💞️ Busco colaborar en proyectos donde pueda  ayudar a crear y mejorar productos, en la industria, la ciencia y la educación
+- 📫 noeliafc40@gmail.com | https://www.linkedin.com/in/noelia-ferrero/
 
 
 
