@@ -7,7 +7,7 @@
 
 ## Carrera profesional.-
 
-Me gradué 🎓 de Ingeniera en Sistemas en 2002 y si bien, siempre trabajé con sistemas transaccionales y gran volumen de información, fué durante los últimos años, que me dediqué a desarrollar una sólida formación en el Area de Ciencias de Datos 💻 donde, inmediatamente me enamoré de los algoritmos que se utilizan para extraer significado y conocimientos a partir de los datos. 📊 📈
+Me gradué 🎓 de Ingeniera en Sistemas en 2002 y si bien, siempre trabajé con sistemas transaccionales y gran volumen de información, fué durante los últimos años, que me dediqué a desarrollar una sólida formación en el Area de Ciencias de Datos 💻 donde, inmediatamente me enamoré de los algoritmos que se utilizan para extraer significado y conocimientos a partir de dichos datos. 📊 📈
 
 
 ## Perspectivas futuras.-
