@@ -1,28 +1,18 @@
 - 👋 Hola, soy @NoeliaFerrero
-- 👀 Me interesada trabajar en Data Science
-- 🌱 Actualmente estoy aprendiendo Python, Power BI y librerias especificas para trabajar con ML
+- 👀 Me interesa trabajar en un ambiente desestructurado y colaborativo donde las nuevas ideas y las ganas de crecer, sean siempre bienvenidas y sobre todo, donde pueda      como profesional, dejar todo en la cancha!
+- 🌱 Actualmente estoy aprendiendo Python, Power BI y librerias especificas para trabajar con Machine Learning
 - 💞️ Busco colaborar en proyectos donde pueda  ayudar a crear y mejorar productos, en la industria, la ciencia y la educación
 - 📫 noeliafc40@gmail.com | https://www.linkedin.com/in/noelia-ferrero/
 
 
-
 ## Carrera profesional.-
 
-Se puede decir que soy una persona de Sistemas. Sin embargo, no he estado trabajando en Data Science desde el principio. Mis primeros pasos en la ciencia los di en el campo de las Ciencias de la Vida...
-
-Me gradué 🎓 de Ingeniera en Sistemas en 2002.
-
-Tengo experiencia en:
-
-👉 2016....
-
-👉 2021...
+Me gradué 🎓 de Ingeniera en Sistemas en 2002 y si bien, siempre trabajé con sistemas transaccionales y gran volumen de información, fué durante los últimos años, que me dediqué a desarrollar una sólida formación en el Area de Ciencias de Datos 💻 donde, inmediatamente me enamoré de los algoritmos que se utilizan para extraer significado y conocimientos a partir de los datos. 📊 📈
 
 
 ## Perspectivas futuras.-
 
-Durante los últimos años, he desarrollado una sólida formación en el Area de Ciencias de Datos. Esto me dio la capacidad de pensar en problemas y soluciones de una manera científica. Creo firmemente que la toma de decisiones basada en evidencia es nuestro mejor enfoque para enfrentar los desafíos en la vida y los negocios, por eso, he estado redirigiendo mi carrera hacia el mundo de los datos. Me gustaría ampliar mis horizontes por lo que busco desafíos incluso fuera de mi campo.
-
+Los rápidos avances en los diferentes campos de la tecnologia, sumado a nuestro comportamiento como consumidores de la misma, han derivado en un incremento de la capacidad para resolver problemas complejos de la vida real, transformar industrias y ofrecer valor comercial. Para esto, sigo en la búsqueda constante de los distintos conocimientos que me permitan la explicación de los hechos y sus relaciones tan mutantes..!
 
 
 <!---
