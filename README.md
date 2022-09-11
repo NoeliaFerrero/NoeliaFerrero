@@ -64,6 +64,10 @@ Los rápidos avances en los diferentes campos de la tecnologia, sumado a los cam
 **Cloud:**
 Amazon Web Service S3
 
+**Otras:**
+<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+
 
 <!---
 NoeliaFerrero/NoeliaFerrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
