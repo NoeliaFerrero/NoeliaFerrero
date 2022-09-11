@@ -47,6 +47,13 @@ Los rápidos avances en los diferentes campos de la tecnologia, sumado a los cam
 **Version Control:**
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
+**Office:**
+[![Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=Microsoft-Excel&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![Word](https://img.shields.io/badge/-Word-blue?style=flat&logo=Microsoft-Word&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Powerpoint](https://img.shields.io/badge/-Powerpoint-red?style=flat&logo=Microsoft-Powerpoint&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+[![Visio](https://img.shields.io/badge/-Visio-blue?style=flat&logo=Microsoft-Visio&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
+[![Prezi](https://img.shields.io/badge/Prezi-black?style=flat&logo=Prezi&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+
 **Cloud:**
 Amazon Web Service S3
 
