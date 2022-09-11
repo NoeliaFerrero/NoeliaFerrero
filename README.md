@@ -48,7 +48,7 @@ Los rápidos avances en los diferentes campos de la tecnologia, sumado a los cam
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 
 **Cloud:**
-AWS S3
+Amazon Web Service S3
 
 
 <!---
