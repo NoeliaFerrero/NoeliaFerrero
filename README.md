@@ -1,8 +1,14 @@
-- 👋 Hola, soy @NoeliaFerrero
-- 👀 Me interesa trabajar en un ambiente desestructurado y colaborativo donde las nuevas ideas y las ganas de crecer, sean siempre bienvenidas y sobre todo, donde pueda      como profesional, dejar todo en la cancha!
-- 🌱 Actualmente estoy aprendiendo librerias especificas de Machine Learning con Python y herramientas de visualización con Power BI 
-- 💞️ Busco colaborar en proyectos donde pueda  ayudar a crear y mejorar productos, en la industria, la ciencia y la educación
-- 📫 noeliafc40@gmail.com | https://www.linkedin.com/in/noelia-ferrero/
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+👋 Hola, soy @NoeliaFerrero
+
+👀 Me interesa trabajar en un ambiente desestructurado y colaborativo donde las nuevas ideas y las ganas de crecer, sean siempre bienvenidas y sobre todo, donde pueda como profesional, dejar todo en la cancha!
+
+🌱 Actualmente estoy aprendiendo librerias especificas de Machine Learning con Python y herramientas de visualización con Power BI 
+
+💞️ Busco colaborar en proyectos donde pueda  ayudar a crear y mejorar productos, en la industria, la ciencia y la educación
+
+📫 noeliafc40@gmail.com | https://www.linkedin.com/in/noelia-ferrero/
 
 
 ## Carrera profesional.-
@@ -30,13 +36,13 @@ Los rápidos avances en los diferentes campos de la tecnologia, sumado a los cam
 
   **SQL:**
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-
+  ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+  
 ### Tools
 
 **Software Development:**
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/Quananhle "Visual Studio")](https://github.com/Quananhle)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
 **SDLC**
 [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
@@ -53,6 +59,7 @@ Los rápidos avances en los diferentes campos de la tecnologia, sumado a los cam
 [![Powerpoint](https://img.shields.io/badge/-Powerpoint-red?style=flat&logo=Microsoft-Powerpoint&link=https://github.com/Quananhle)](https://github.com/Quananhle)
 [![Visio](https://img.shields.io/badge/-Visio-blue?style=flat&logo=Microsoft-Visio&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![Prezi](https://img.shields.io/badge/Prezi-black?style=flat&logo=Prezi&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 **Cloud:**
 Amazon Web Service S3
