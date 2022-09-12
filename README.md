@@ -6,7 +6,7 @@
 
 🌱 Actualmente estoy aprendiendo librerias especificas de Machine Learning con Python y herramientas de visualización con Power BI 
 
-💞️ Busco colaborar en proyectos donde pueda  ayudar a crear y mejorar productos, en la industria, la ciencia y la educación
+💞️ Busco colaborar en proyectos donde pueda crear y mejorar productos/servicios
 
 📫 noeliafc40@gmail.com | https://www.linkedin.com/in/noelia-ferrero/
 
