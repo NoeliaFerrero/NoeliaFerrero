@@ -13,7 +13,7 @@
 
 ## Carrera profesional.-
 
-Desde que me gradué de Ingeniera en Sistemas🎓, trabajé con sistemas transaccionales y gran volumen de información. Siempre estuve en el Back, por decirlo de alguna manera, en el detrás de escena, y me caracterize por tener un marcado perfil analítico en el trabajo con bases de datos, el cual me permitio, poder llegar al epicentro del dato, a ese punto, donde siempre se origina todo y por eso concidero tan importante, poder decodificar! Fué asi que, en los últimos años, me dediqué a desarrollar una sólida formación en el Area de Ciencias de Datos, donde, inmediatamente me enamoré de los algoritmos que se utilizan para extraer significado y conocimientos a partir de los datos que nos rodean. 📊 📈  
+Desde que me gradué de Ingeniera en Sistemas🎓, trabajé con sistemas transaccionales y gran volumen de información. Siempre estuve en el Back (por decirlo de alguna manera, en el detrás de escena), y me caracterize por tener un marcado perfil analítico en el trabajo con bases de datos, el cual me permitio, poder llegar al epicentro del dato, a ese punto, donde se origina todo y que concidero tan importante, poder decodificar! Fué asi que, en los últimos años, me dediqué a desarrollar una sólida formación en el Area de Ciencias de Datos, donde, inmediatamente me enamoré de los algoritmos que se utilizan para extraer significado y conocimientos a partir de los datos que nos rodean. 📊 📈  
 
 
 ## Perspectivas futuras.-
